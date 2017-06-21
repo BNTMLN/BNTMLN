@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>Blog 1 - A Fresh Start.</td>
+    <td>Blog 2 - 1 Tick...</td>
   </tr>
   <tr>
     <td>Date:</td>
@@ -17,16 +17,16 @@ published: true
   </tr>
   <tr>
     <td>Starting point:</td>
-    <td>I had no background or blogs.</td>
+    <td>I had no  blogs.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully add my background and add my 1st blog.</td>
+    <td>To successfully add my  1st blog.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think so, as I followed all the instructions and seem to have done everything in the correct order.</td>
+    <td>Yes I have successfully blogged on my website</td>
   </tr>
 </table>
 
