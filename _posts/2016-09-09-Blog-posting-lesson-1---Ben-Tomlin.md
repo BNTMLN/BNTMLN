@@ -45,7 +45,7 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Mr Tansley had to help the whole class as well as me which limited my time with him, which also made me struggle with adding my blogs to my page.</td>
+    <td>Mr Tansley had to help the whole class as well as me which limited my time with him, which also made me struggle with adding my blogs to my page. I also ticked the wrong thing when publishing.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
