@@ -17,12 +17,11 @@ html {
   font-size: 100%;
 }
 
-body {
-	background: url("https://cdn.designsmaz.com/wp-content/uploads/2014/10/flat-design-wallpapers-HD-03.jpg");
-	background-repeat: no repeat;
-        background-attatchment: fixed;
-font: 18px/1.4 arial;
-color: $darkGray;
+body { background: url("http://www.androidguys.com/wp-content/uploads/2016/05/Poly-Lakeside.jpg"); 
+	background-repeat: no-repeat; 
+	background-attachment:fixed; 
+	background-size: 100% 100%;
+	font: 18px/1.4 $helvetica; color: $white; 
 }
 
 .container {
