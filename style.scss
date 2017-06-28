@@ -18,25 +18,43 @@ html {
 }
 
 body {
-	background: url("http://www.androidguys.com/wp-content/uploads/2016/05/Poly-Lakeside.jpg");
-	background-repeat: no-repeat;
-	background-attachment:fixed;
-	background-size: 100% 100%;
-  font: 18px/1.4 $helvetica;
-  color: $white;
+	background: url("https://cdn.designsmaz.com/wp-content/uploads/2014/10/flat-design-wallpapers-HD-03.jpg");
+	background-repeat: no repeat;
+        background-attatchment: fixed;
+font: 18px/1.4 arial;
+color: $darkGray;
 }
 
 .container {
+	box-shadow: 10px 10px 5px #888888;
+	border-radius: 10px;
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background-color: rgba(255, 170, 0, 0.3);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+   border: 1px solid white;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $white;
-  font-weight: bold;
+  font-weight: italic;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -244,9 +262,9 @@ nav {
 // .main
 //
 
-p {
-    border-left: 6px solid red;
-    background-color: lightgrey;
+.posts > .post {
+  padding-bottom: 2em;
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -281,10 +299,10 @@ p {
   background-color: $lightGray;
 }
 
-//footer {
-//padding: 20px 0;
-//text-align: center;
-//}
+footer {
+  padding: 20px 0;
+  text-align: center;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
