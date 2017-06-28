@@ -17,44 +17,26 @@ html {
   font-size: 100%;
 }
 
-body { background: url("http://www.androidguys.com/wp-content/uploads/2016/05/Poly-Lakeside.jpg"); 
-	background-repeat: no-repeat; 
-	background-attachment:fixed; 
+body {
+	background: url("http://www.androidguys.com/wp-content/uploads/2016/05/Poly-Lakeside.jpg");
+	background-repeat: no-repeat;
+	background-attachment:fixed;
 	background-size: 100% 100%;
-	font: 18px/1.4 $helvetica; 
-	color: $black; 
+  font: 18px/1.4 $helvetica;
+  color: $white;
 }
 
 .container {
-	box-shadow: 10px 10px 5px #000000;
-	border-radius: 10px;
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background-color: rgba(255,255,255,255);
-}
-
-table {
-    border-collapse: collapse;
-}
-
-table, th, td {
-   border: 1px solid white;
-}
-
-table {
-    width: 100%;
-}
-
-th {
-    height: 50px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $white;
-  font-weight: italic;
+  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -300,8 +282,8 @@ nav {
 }
 
 //footer {
-  //padding: 20px 0;
- // text-align: center;
+//padding: 20px 0;
+//text-align: center;
 //}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
